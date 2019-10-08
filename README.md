@@ -6,5 +6,3 @@ Grade 11 AP Computer Science Project
 - Quests
 - Simple combat
 
-
-*Integrates concepts of Object-Oriented Programming
